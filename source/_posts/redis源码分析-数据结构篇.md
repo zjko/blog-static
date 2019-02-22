@@ -1,11 +1,11 @@
 ---
 title: Redis设计与实现-数据结构篇
 date: 2019-02-19 22:08:59
-tags: [算法,C,redis,读书笔记]
+tags: [算法,C,Redis,读书笔记]
 toc: true
 ---
 
-Redis设计与实现读书笔记
+《Redis设计与实现》读书笔记，[推荐去看作者原著](http://redisbook.com/)
 
 ## SDS
 sds.h/sdshdr
